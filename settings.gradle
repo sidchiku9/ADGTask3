@@ -1,0 +1,2 @@
+rootProject.name='ADGTask3'
+include ':app'

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ADGTask3</string>
+    <string name="notes">Notes</string>
+    <string name="samplenote">Note 1</string>
+    <string name="samplecontent">Sample Content</string>
+    <string name="enhead">Note Title</string>
+    <string name="encont">Note Content</string>
+    <string name="save">SAVE</string>
+</resources>
